@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
- <img src="https://github.com/user-attachments/assets/05656b48-97c5-4492-8951-a531d3df4fc9" alt="Dart Logo" style="width: 10%; margin-right: 20px;">
+ <img src="https://github.com/user-attachments/assets/05656b48-97c5-4492-8951-a531d3df4fc9" alt="Command Logo" style="width: 10%; margin-right: 20px;">
   <h1>Windows Command Lines Cheat Sheet</h1>
 </div>
 
